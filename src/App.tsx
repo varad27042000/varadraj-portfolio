@@ -18,7 +18,7 @@ function App() {
       <Contact />
 
       <footer className="bg-slate-900 text-white py-8 text-center">
-        <p className="text-slate-400">Designed & Built by Varadraj Kini</p>
+        <p className="text-slate-400">Designed & Built by Varadraj Kin</p>
       </footer>
     </div>
   );

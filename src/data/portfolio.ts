@@ -1,18 +1,18 @@
+import myAvatar from "../public/myAvatar.png";
 export const personalInfo = {
   name: "Varadraj Kini",
   title: "Full Stack Software Engineer",
   subtitle: "MS in Computer Science, USA",
-  email: "varadraj.kini@example.com",
-  phone: "+1 (555) 123-4567",
-  location: "United States",
-  github: "https://github.com/varadraj",
-  linkedin: "https://linkedin.com/in/varadraj-kini",
-  avatar:
-    "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=400",
+  email: "varadrajkini88@gmail.com",
+  phone: "+1 (302) 803-9711",
+  location: "Greater Philadelphia Area, USA",
+  github: "https://github.com/varad27042000",
+  linkedin: "https://www.linkedin.com/in/kinivaradraj27/",
+  avatar: myAvatar,
 };
 
 export const about = {
-  description: `I am a passionate Software Engineer dedicated to creating engaging, user-friendly, and scalable web applications. With expertise in modern JavaScript frameworks like React and Next.js, I specialize in building end to end applications that enhance usability and performance. Beyond coding, I thrive on innovation, continuous learning, and seamless collaboration, ensuring project success in fast-paced environments. My technical skill set includes Data Structure and Algorithm along with strong command over Python and C/C++, making me a versatile problem solver. I am driven by the goal of leveraging cutting-edge developmental technologies to craft seamless digital experiences, optimize performance, and enhance user interaction.`,
+  description: `I am a passionate Software Engineer dedicated to creating engaging, user-friendly, and scalable web applications. With expertise in modern JavaScript frameworks like React and Next.js, I specialize in building end to end applications that enhance usability and performance. Beyond coding, I thrive on innovation, continuous learning, and seamless collaboration, ensuring project success in fast-paced environments. My technical skill set includes Data Structure and Algorithm along with strong command over Java, Python and C/C++, making me a versatile problem solver. I am driven by the goal of leveraging cutting-edge developmental technologies to craft seamless digital experiences, optimize performance, and enhance user interaction.`,
   interests: [
     {
       title: "Code & Research",
@@ -206,14 +206,14 @@ export const education = [
     degree: "MS In Computer & Information Science",
     period: "2022 — 2024",
     coursework:
-      "Algorithm Design and Analysis, Game Theory, Artificial Intelligence, Accessible Computing, Computer System Architecture",
+      "Algorithm Design and Analysis, Game Theory, Artificial Intelligence, Intro to Data Mining, Accessible Computing, Operating Systems, Computer System Architecture, Computer Networks",
   },
   {
     institution: "University Of Mumbai, India",
     degree: "BTech In Information Technology",
     period: "2018 — 2022",
     coursework:
-      "Data Structure and Algorithm, Operating Systems, Advanced Database System Management, Cloud Computing and Services",
+      "Data Structure and Algorithm, Advanced Cyber Security, Big Data Theory, Database System & Management, Cloud Computing and Services",
   },
 ];
 
@@ -221,4 +221,6 @@ export const certifications = [
   "Diploma In Secure MERN Stack Development",
   "Techniques For Improving The Effectiveness Of RAG Systems - NVIDIA",
   "Capstone: Retrieving, Processing, And Visualizing Data With Python - University Of Michigan",
+  "The Complete SQL Course: Become a MYSQL Master - Udemy",
+  "Java Full Stack Development - Udemy",
 ];

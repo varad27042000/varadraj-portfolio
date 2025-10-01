@@ -12,7 +12,13 @@ export const personalInfo = {
 };
 
 export const about = {
-  description: `I am a passionate Software Engineer dedicated to creating engaging, user-friendly, and scalable web applications. With expertise in modern JavaScript frameworks like React and Next.js, I specialize in building end to end applications that enhance usability and performance. Beyond coding, I thrive on innovation, continuous learning, and seamless collaboration, ensuring project success in fast-paced environments. My technical skill set includes Data Structure and Algorithm along with strong command over Java, Python and C/C++, making me a versatile problem solver. I am driven by the goal of leveraging cutting-edge developmental technologies to craft seamless digital experiences, optimize performance, and enhance user interaction.`,
+  description: [
+    "Code, coffee, and curiosity! That’s my development stack. ",
+    "I’m a Full Stack Software Engineer with a knack for turning messy problems into clean, scalable systems. I've built Production ready applications, SaaS platforms, AI-powered apps, and interfaces that feel effortless.",
+    "Toolkit: Next.js, MERN, Java, Python, cloud-native, and not just these; I’m a quick study who’ll jump into any stack, from bleeding-edge to gloriously creaky legacy code. Superpower: writing code people actually enjoy using and maintaing!",
+    "When I’m not debugging reality, I’m trading stocks, geeking out on algorithms, or playing guitar badly enough to stick to coding.",
+  ],
+
   interests: [
     {
       title: "Code & Research",

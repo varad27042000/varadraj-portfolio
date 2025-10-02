@@ -209,14 +209,14 @@ export const projects = [
 export const education = [
   {
     institution: "University Of Delaware, USA",
-    degree: "MS In Computer & Information Science",
+    degree: "Masters In Computer & Information Science",
     period: "2022 — 2024",
     coursework:
       "Algorithm Design and Analysis, Game Theory, Artificial Intelligence, Intro to Data Mining, Accessible Computing, Operating Systems, Computer System Architecture, Computer Networks",
   },
   {
     institution: "University Of Mumbai, India",
-    degree: "BTech In Information Technology",
+    degree: "Bachelors In Information Technology",
     period: "2018 — 2022",
     coursework:
       "Data Structure and Algorithm, Advanced Cyber Security, Big Data Theory, Database System & Management, Cloud Computing and Services",

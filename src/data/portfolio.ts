@@ -69,6 +69,7 @@ export const experience = [
       "Architected and scaled a multi-tenant SaaS platform using Next.js, TypeScript, and MongoDB, enabling onboarding of 3+ brokerage clients and reducing code duplication by over 40% through modular design.",
       "Built internal admin tools and reusable component libraries using shadcn/ui, improving developer productivity.",
       "Integrated secure, role-based authentication with NextAuth.js and streamlined data validation with React Hook Form + Zod, cutting user-facing form errors by over 60% during onboarding and daily operations.",
+      "Integrated AI-powered recommendation and automation capabilities into the platform using OpenAI APIs and edge functions, streamlining client decision-making workflows and cutting manual processing time.",
     ],
   },
   {
@@ -81,6 +82,7 @@ export const experience = [
       "Developed and optimized applications using React.js with TypeScript, Node.js, and MySQL, improving initial load times by up to 40%.",
       "Applied CI/CD practices with GitHub Actions to support efficient software deployment and ensure reliable production rollouts.",
       "Developed and maintained a suite of Playwright tests to validate UI layout, contributing to early detection of rendering issues.",
+      "Integrated AI-powered analytics and intelligent data visualization tools into client-facing dashboards, enabling real-time insights and reducing manual data interpretation time by ~50%, significantly improving decision-making efficiency.",
     ],
   },
   {

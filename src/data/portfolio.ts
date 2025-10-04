@@ -15,7 +15,7 @@ export const about = {
   description: [
     "Code, coffee, and curiosity! That’s my development stack. ",
     "I’m a Full Stack Software Engineer with a knack for turning messy problems into clean, scalable systems. I've built Production ready applications, SaaS platforms, AI-powered apps, and interfaces that feel effortless.",
-    "Toolkit: Next.js, MERN, Java, Python, cloud-native, and not just these; I’m a quick study who’ll jump into any stack, from bleeding-edge to gloriously creaky legacy code. Superpower: writing code people actually enjoy using and maintaing!",
+    "Toolkit: Next.js, MERN, Java, Python, cloud-native, and not just these; I’m a quick study who’ll jump into any stack, from bleeding-edge to gloriously creaky legacy code. Superpower: writing code people actually enjoy using and maintaining!",
     "When I’m not debugging reality, I’m trading stocks, geeking out on algorithms, or playing guitar badly enough to stick to coding.",
   ],
 
